@@ -28,7 +28,8 @@
 - [electron-vue](https://simulatedgreg.gitbooks.io/electron-vue/content/cn/)
 - [将Vue项目打包为Windows应用（.exe）](https://zhuanlan.zhihu.com/p/59765568)
 - [Electron + Vue + Vscode构建跨平台应用系列文章](https://blog.csdn.net/yi_master?t=1)
-
+- [PicGo图床上传开源代码讲解 - Electron-vue](https://molunerfinn.com/tags/Electron-vue/page/2/)
+- 
 ---
 
 - #### Dart/Flutter学习
