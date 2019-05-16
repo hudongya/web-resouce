@@ -1,0 +1,4 @@
+- #### VSCode使用
+- [知乎 - VS Code入门](https://zhuanlan.zhihu.com/p/64779441)
+- [知乎 - 提高 JavaScript 开发效率的高级 VSCode 扩展！](https://zhuanlan.zhihu.com/p/52559059)
+- [知乎 - 优秀的 VS Code 前端开发扩展](https://zhuanlan.zhihu.com/p/61428157)
