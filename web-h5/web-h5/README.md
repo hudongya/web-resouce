@@ -6,3 +6,5 @@
 - [js原型和原型链 及 canvas验证码实践](https://zhuanlan.zhihu.com/p/58056659)
 - [JavaScript难点](https://blog.fundebug.com/2017/07/17/10-javascript-difficulties/)
 - [30 分钟学会 Flex 布局](https://zhuanlan.zhihu.com/p/25303493)
+- [github前端学习笔记learning-article](https://github.com/webproblem/learning-article)
+- [前端开发学习文档](https://whjin.github.io/frontend-dev-doc/)
