@@ -1,3 +1,4 @@
 - #### Webpack学习
 - [Webpack 中文指南](https://zhaoda.net/webpack-handbook/)
 - [Webpack 中文官方文档](https://webpack.docschina.org/)
+- [慕课-webpack4 从零学习常用配置](http://www.imooc.com/article/287156)
