@@ -8,3 +8,4 @@
 - [30 分钟学会 Flex 布局](https://zhuanlan.zhihu.com/p/25303493)
 - [github前端学习笔记learning-article](https://github.com/webproblem/learning-article)
 - [前端开发学习文档](https://whjin.github.io/frontend-dev-doc/)
+- [聊聊JS的二进制家族：Blob、ArrayBuffer和Buffer](https://zhuanlan.zhihu.com/p/97768916)
